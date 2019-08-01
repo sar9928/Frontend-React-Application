@@ -5,8 +5,11 @@ Here is a list of things I have downloaded or installed while developing this ap
 download node: 
 ### downloaded latest node off website
 
-install react:
+Install react:
 ### npm install -g create-react-app
+
+Install in the root directory of your Node.js module:
+### npm init
 
 Install Axios:
 ### npm i axios
